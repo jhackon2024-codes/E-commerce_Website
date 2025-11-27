@@ -1,0 +1,7 @@
+{
+  "name": "Lumina - Luxury Multi-Vendor Marketplace",
+  "description": "A high-end, AI-powered multi-vendor e-commerce platform featuring immersive product experiences, GSAP animations, and a Gemini-powered shopping concierge.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
